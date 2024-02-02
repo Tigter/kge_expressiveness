@@ -1,1 +1,3 @@
-# KGE 表达能力分析代码
+# KGE Expressiveness Analysis Code
+
+best config path: sh/best_config.sh
